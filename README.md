@@ -3,6 +3,6 @@ Transformació d'una aula tradicional en una aula digital: mobiliari específic 
 switch i router, rosetes RJ45 a la paret per a una xarxa d'àrea local amb intercomunicació entre l'alumnat i el
 professorat, eixida a internet, pissarra digital i impressora en xarxa.
 ## Membres del grup
-- AlumneA — Coordinació i pressupostos
-- AlumneB — Instal·lació física i xarxa
-- AlumneC — Sistemes, serveis i documentació
+- Rodrigo — Coordinació i pressupostos
+- Vicent — Instal·lació física i xarxa
+- Hugo — Sistemes, serveis i documentació
