@@ -1,3 +1,3 @@
-# 1ra Versiona del documento del reto
+# 2nd Versiona del documento del reto
 
-Esto es el documento del reto modificadoen su primera version
+Esto es el documento del reto modificado en su segunda version
